@@ -1,0 +1,7 @@
+{
+  "name": "AdityaExam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
